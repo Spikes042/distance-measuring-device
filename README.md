@@ -23,3 +23,6 @@ The device also saves the maximum and minimum distances measured and a reset fun
 
 # Development Software
 Altera NIOS II software on Quartus II version 13.0 (Web Edition)
+
+# Programming Language
+C
